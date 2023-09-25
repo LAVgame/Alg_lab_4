@@ -1,0 +1,14 @@
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ИВТ-б-о-22-1\Алгоритмизация\4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
